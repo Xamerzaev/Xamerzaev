@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" aligin="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
