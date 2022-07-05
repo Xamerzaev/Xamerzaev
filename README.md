@@ -31,14 +31,17 @@
         
 ### :man_technologist: Обо мне :
 
+I am Python-Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br><br>
 
-Я являюсь Python-Разработчиком <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br><br>
+• In recent years, I have been trained and also helped in the development of projects of a uranium mining company. 
 
-• Предпочитаю работать, в первую очередь, в сфере разработки веб приложений. В команде единомышленников с полным погружением в процесс.
+I was engaged in freelancing, created interesting projects for my profile.
 
-• Прошел курсы обучения в международной IT-компании Expovision
+• I prefer to work primarily in the field of web application development. In a team of like-minded people with full immersion in the process.
 
-• Заинтересован в работе в IT сфере по направлению Backend WEB-разработка, в компании с возможностью самореализации, самосовершенствования, карьерного роста, с достойной заработной платой.
+• I have completed training courses at the international IT company Expo vision.
+
+• I am interested in working in the IT field in the direction of Backend WEB development, in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
 
 ### :hammer_and_wrench: Языки программирования и инструменты :
 <div>
