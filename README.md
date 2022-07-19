@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Xamerzaev&style=flat-square&color=blue" alt=""/>
    <h1>
-  Добро пожаловать!
+  Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/>
 </h1>
  </div>
@@ -29,11 +29,9 @@
 
 
         
-### :man_technologist: Обо мне :
+### :man_technologist: About me:
 
-I am Python-Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br><br>
-
-• In recent years, I have been trained and also helped in the development of projects of a uranium mining company. 
+• In recent years, I have been trained and also helped in the development of projects of a uranium mining company.
 
 I was engaged in freelancing, created interesting projects for my profile.
 
@@ -41,9 +39,9 @@ I was engaged in freelancing, created interesting projects for my profile.
 
 • I have completed training courses at the international IT company Expovision.
 
-• I am interested in working in the IT field in the direction of Backend WEB development, in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
+• I am interested in working in the field of machine learning, as well as information security, in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
 
-### :hammer_and_wrench: Языки программирования и инструменты :
+### :hammer_and_wrench: Programming languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -61,7 +59,7 @@ I was engaged in freelancing, created interesting projects for my profile.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 
 
- ### :fire: Моя статистика:
+ ### :fire: My statistics:
 
 
         
