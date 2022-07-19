@@ -39,7 +39,7 @@ I was engaged in freelancing, created interesting projects for my profile.
 
 • I prefer to work primarily in the field of web application development. In a team of like-minded people with full immersion in the process.
 
-• I have completed training courses at the international IT company Expo vision.
+• I have completed training courses at the international IT company Expovision.
 
 • I am interested in working in the IT field in the direction of Backend WEB development, in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
 
