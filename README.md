@@ -18,7 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Xamerzaev&style=flat-square&color=blue" alt=""/>
    <h1>
   Welcome!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" height="5%"/>
 </h1>
  </div>
  
