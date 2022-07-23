@@ -31,15 +31,13 @@
         
 ### :man_technologist: About me:
 
-• In recent years, I have been trained and also helped in the development of projects of a uranium mining company.
+• In recent years, I have been trained and also helped in the development of projects of a uranium mining company. 
 
 I was engaged in freelancing, created interesting projects for my profile.
 
-• I prefer to work primarily in the field of web application development. In a team of like-minded people with full immersion in the process.
+• I am interested in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
 
-• I have completed training courses at the international IT company Expovision.
-
-• I am interested in working in the field of machine learning, as well as information security, in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
+• I also worked for one of the largest companies in the republic, developed an API for integrating products with «Мой Склад»
 
 ### :hammer_and_wrench: Programming languages and tools :
 <div>
