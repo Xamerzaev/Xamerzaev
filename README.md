@@ -25,19 +25,6 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50%" height="50%"/>
 </div>
 
-
-
-        
-### :man_technologist: About me:
-
-• In recent years, I have been trained and also helped in the development of projects of a uranium mining company. 
-
-I was engaged in freelancing, created interesting projects for my profile.
-
-• I am interested in a company with the possibility of self-realization, self-improvement, career growth, with a decent salary.
-
-• I also worked for one of the largest companies in the republic, developed an API for integrating products with «Мой Склад»
-
 ### :hammer_and_wrench: Programming languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
